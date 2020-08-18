@@ -1,0 +1,3 @@
+$>git clone    --clone repo to local
+$>git branch   -- check current branch
+$>git branch -a  --show all branches
